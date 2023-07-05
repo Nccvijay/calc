@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(73, 1, 1);
+}
+
+.calculator {
+    padding: 10px;
+    border-radius: 1em;
+    height: 380px;
+    width: 400px;
+    margin: auto;
+    margin-top: 10%;
+    background-color: rgb(245, 201, 201);
+    
+}
+
+.display {
+    font-family:'Courier New', Courier, monospace;
+    font-weight: blod;
+    background-color: #d6d4d4;
+    border: solid rgb(138, 137, 141) 0.5px;
+    color: rgb(243, 5, 5);
+    border-radius: auto;
+    width: 98%;
+    height: 65%;
+}
+
+#btn {
+    background-color: #666666;
+}
+input[type=button] {
+    font-family: 'Orbitron', sans-serif;
+    background-color: #666666;
+    color: rgb(19, 18, 18);
+    border: solid rgb(245, 240, 239) 0.1px;
+    width: 100%;
+    border-radius: 50%;
+    height: 70%;
+    outline: none;
+}
+
